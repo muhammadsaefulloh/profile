@@ -265,12 +265,15 @@ a:focus {
   color: #fff;
 }
 
+.w3-sofia {
+  font-family: Sofia, cursive;
+}
 .slider_item-detail h1 {
   font-weight: 600;
 }
 
 .slider_item-detail p {
-  margin: 40px 0 45px 0;
+  margin: 20px 0 25px 0;
 }
 
 .slider_item-detail a {
@@ -283,8 +286,9 @@ a:focus {
 }
 
 .slider_item-imgbox {
-  margin-top: 45px;
-  width: 75%;
+  margin-top: 5px;
+  margin-bottom: 25px;
+  width: 40%;
 }
 
 .slider_item-imgbox img {
